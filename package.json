@@ -1,0 +1,30 @@
+{
+  "name": "txo-snippets",
+  "main": "./lib/txo-snippets",
+  "version": "1.0.0",
+  "description": "Technology Studio Atom snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technology-studio/atom-txo-snippets.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Technology Studio",
+    "email": "npm@technologystudio.sk",
+    "url": "http://github.com/technology-studio/"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+
+  ";activationCommands": {
+    "atom-text-editor": "txo-snippets:add-or-update-log"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "atom",
+    "txo",
+    "snippets"
+  ]
+}

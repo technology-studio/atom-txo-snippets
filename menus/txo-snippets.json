@@ -1,0 +1,31 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Technology Studio",
+        "submenu": [
+          {
+            "label": "Add or update log",
+            "command": "txo-snippets:add-or-update-log"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Technology Studio",
+          "submenu": [
+            {
+              "label": "Add or update log",
+              "command": "txo-snippets:add-or-update-log"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
