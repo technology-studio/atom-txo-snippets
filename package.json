@@ -1,7 +1,7 @@
 {
   "name": "txo-snippets",
   "main": "./lib/txo-snippets",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Technology Studio Atom snippets",
   "repository": {
     "type": "git",
